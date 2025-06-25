@@ -1,5 +1,5 @@
 import React from 'react';
-import Header from './Components/header.jsx';
+import Header from './Components/Header.jsx';
 import Balance from './Components/Balance.jsx';
 import IncomeExpenses from './Components/incomeExpenses.jsx';
 import { Transcation } from './Components/Transcation';
